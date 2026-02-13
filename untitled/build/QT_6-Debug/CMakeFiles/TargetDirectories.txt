@@ -1,0 +1,8 @@
+D:/123123/untitled/build/QT_6-Debug/CMakeFiles/untitled.dir
+D:/123123/untitled/build/QT_6-Debug/CMakeFiles/edit_cache.dir
+D:/123123/untitled/build/QT_6-Debug/CMakeFiles/rebuild_cache.dir
+D:/123123/untitled/build/QT_6-Debug/CMakeFiles/list_install_components.dir
+D:/123123/untitled/build/QT_6-Debug/CMakeFiles/install.dir
+D:/123123/untitled/build/QT_6-Debug/CMakeFiles/install/local.dir
+D:/123123/untitled/build/QT_6-Debug/CMakeFiles/untitled_autogen_timestamp_deps.dir
+D:/123123/untitled/build/QT_6-Debug/CMakeFiles/untitled_autogen.dir
