@@ -21,9 +21,9 @@
   - 15 минут
   - 25 минут
  
-  
-![image alt](https://github.com/m3NORY/qt/blob/main/untitled/photo_2026-02-14_15-34-16.jpg?raw=true)
+
 - **Визуальный прогресс:** полоса прогресса показывает оставшееся время
+![image alt](https://github.com/m3NORY/qt/blob/main/untitled/photo_2026-02-14_15-34-16.jpg?raw=true)
 - **Уведомления:** сообщение и мигание окна по окончании
 - **Пауза и сброс:** возможность остановить и сбросить таймер
 
