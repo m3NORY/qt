@@ -1,5 +1,5 @@
 ## Таймер и секундомер
-Простое и удобное приложение на Qt, которое объединяет в себе секундомер и таймер обратного отсчета.
+
 # Скриншоты
 ![image alt](https://github.com/m3NORY/qt/blob/main/untitled/photo_2026-02-14_15-33-51.jpg?raw=true)
 ![image alt](https://github.com/m3NORY/qt/blob/main/untitled/photo_2026-02-14_15-34-06.jpg?raw=true)
