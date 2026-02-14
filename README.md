@@ -3,6 +3,7 @@
 # Скриншоты
 ![image alt](https://github.com/m3NORY/qt/blob/main/untitled/photo_2026-02-14_15-33-51.jpg?raw=true)
 ![image alt](https://github.com/m3NORY/qt/blob/main/untitled/photo_2026-02-14_15-34-06.jpg?raw=true)
+![image alt](https://github.com/m3NORY/qt/blob/main/untitled/photo_2026-02-14_15-34-16.jpg?raw=true)
 
 ## Функционал
 
@@ -16,7 +17,6 @@
 ### Таймер
 - **Настройка:** установка часов, минут и секунд
 - **Готовые пресеты:**
-![image alt](https://github.com/m3NORY/qt/blob/main/untitled/photo_2026-02-14_15-34-16.jpg?raw=true)
   - 5 минут
   - 10 минут
   - 15 минут
